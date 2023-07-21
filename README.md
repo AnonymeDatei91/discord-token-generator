@@ -1,7 +1,7 @@
 <h1 align="center"> Discord-Account-Creator </h1>
 
 
-### for simple setup run vastaccgen.exe and a gui will pop up.
+### for simple setup run vastgen.exe and a gui will pop up.
 
 ### if you want the harder setup once your done configurating run vastaccgen.exe and it will run the generator.
  
